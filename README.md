@@ -1,6 +1,6 @@
-## **BIENVENIDO AL REPOSITORIO HG_1_ALFA** 👩‍💻
+## **BIENVENIDO AL REPOSITORIO HG_1_DELTA** 👩‍💻
 
-##  Alias alfa  (Encargado del repositorio)
+##  Alias Delta  (Encargado del repositorio)
 
 #####  Integrantes del equipo: 
  1.  Fabiola
