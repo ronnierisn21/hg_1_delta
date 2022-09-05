@@ -19,16 +19,12 @@
 | H-4  | Pull Request delta (Ronnieris)  |
 | H-5  | Pull Request echo (Talos)  |
 
-##### Observación
-
-La creación del repositorio hg_1_alfa se hace con la finalidad de fomentar o poner en prácticas las lecciones enseñadas en el curso de Social Oplesk.
-
 ##### Lecciones aprendidas
 
-- Agregar y guardar una tarea.
-- Como agregar una carpeta vacía al servicio de Github.
-- Como hacer un commit en un arhivo específico.
 - Subir un arhivo al servicio de la plataforma de github.
-- Pull request
+- Como realizar Pull request
+- Como actualizar el repositorio local con los cambios desde el repositorio remoto
 
+##### Observación
 
+La creación del repositorio hg_1_deelta se hace con la finalidad de fomentar o poner en prácticas las lecciones aprendidas en el curso de Social Oplesk.
