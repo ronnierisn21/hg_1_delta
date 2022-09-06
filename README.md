@@ -21,9 +21,11 @@
 
 ##### Lecciones aprendidas
 
+- Agregar y guardar una tarea.
+- Como hacer un commit en un arhivo específico.
 - Subir un arhivo al servicio de la plataforma de github.
 - Como realizar Pull request
-- Como actualizar el repositorio local con los cambios desde el repositorio remoto
+- Como actualizar tu repositorio local con cambios desde tu repositorio remoto
 
 ##### Observación
 
