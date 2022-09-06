@@ -30,3 +30,4 @@
 ##### Observación
 
 La creación del repositorio hg_1_delta se hace con la finalidad de fomentar o poner en prácticas las lecciones aprendidas en el curso de Social Oplesk.
+- 
